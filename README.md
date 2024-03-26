@@ -16,11 +16,11 @@ By using this code, you acknowledge and agree to the following:
 
 ## Requirements
 * Install following libraries
-1. Python 3.10.4
-2. requests
-3. pynput
-4. PIL
-5. email
+    * Python 3.10.4
+    * requests
+    * pynput
+    * PIL
+    * email
 
 * This script works only for Windows operating systems.
 
