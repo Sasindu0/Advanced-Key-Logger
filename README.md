@@ -16,15 +16,15 @@ By using this code, you acknowledge and agree to the following:
 
 ## Requirements
 * Install following libraries
-    1. Python 3.10.4
-    2. requests
-    3. pynput
-    4. PIL
-    5. email
+1. Python 3.10.4
+2. requests
+3. pynput
+4. PIL
+5. email
 
 * This script works only for Windows operating systems.
 
 ## Simple Explanation about the files
-**KeyLogger.py:** The script with all additional features.\n
-**SimpleKeyLogger.py:** The script for only key logging function using different old library called *keyboard*.
-**set.bat:** Simple script for hide the keylogger executable and make automatically execute when windows startup.
+* **KeyLogger.py:** The script with all additional features.
+* **SimpleKeyLogger.py:** The script for only key logging function using different old library called *keyboard*.
+* **set.bat:** Simple script for hide the keylogger executable and make automatically execute when windows startup.
