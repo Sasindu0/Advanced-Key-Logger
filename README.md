@@ -15,14 +15,14 @@ By using this code, you acknowledge and agree to the following:
 
 
 ## Requirements
-* Install following libraries
+1. Install following libraries
     * Python 3.10.4
     * requests
     * pynput
     * PIL
     * email
 
-* This script works only for Windows operating systems.
+2. This script works only for Windows operating systems.
 
 ## Simple Explanation about the files
 * **KeyLogger.py:** The script with all additional features.
