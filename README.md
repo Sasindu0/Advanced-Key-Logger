@@ -25,6 +25,6 @@ By using this code, you acknowledge and agree to the following:
 * This script works only for Windows operating systems.
 
 ## Simple Explanation about the files
-**KeyLogger.py:** The script with all additional features.
+**KeyLogger.py:** The script with all additional features.\n
 **SimpleKeyLogger.py:** The script for only key logging function using different old library called *keyboard*.
 **set.bat:** Simple script for hide the keylogger executable and make automatically execute when windows startup.
